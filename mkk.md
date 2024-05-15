@@ -14,3 +14,4 @@ the online shopping system administrator”.a
  Allow email addresses in the format name@gmail.com.▯
  Verify password field id not greater than 20 characters. ▯
 
+ Validated accounts can be logged into
